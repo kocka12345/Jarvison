@@ -9,7 +9,7 @@
 - [x] **Real-time Event Handling** – Responds instantly to workspace events and direct mentions.
 - [x] **Slack API Integration** – Built on official Slack bot framework protocols.
 - [x] **24/7 Uptime** – *(Pending production hosting setup)*
-- [x] *(Custom commands & integrations – TBD)*
+- [x] *(Custom commands & integrations)*
 
 ---
 
